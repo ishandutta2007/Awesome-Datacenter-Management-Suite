@@ -64,9 +64,9 @@ This repository tracks top-tier **commercial enterprise software** and **product
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by **GitHub Star Count** in descending order. Click on any star badge to visit the repo's stargazers page.*
+*Sorted by **GitHub Stars_Count** in descending order. Click on any Stars_Badge to visit the repo's stargazers page.*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Prometheus](https://github.com/prometheus/prometheus)** 📈 | **De-facto standard open-source metrics monitoring and alerting toolkit.** Pull-based architecture, dynamic service discovery, PromQL query language, and cloud-native integrations. **Apache-2.0**. | [<img src="https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white" alt="Prometheus Stars" />](https://github.com/prometheus/prometheus/stargazers) |
 | **[Grafana](https://github.com/grafana/grafana)** 📊 | **The open and composable observability and data visualization platform.** Visualizes metrics, logs, and traces from Prometheus, InfluxDB, Zabbix, and 100+ data sources. **AGPL-3.0**. | [<img src="https://img.shields.io/github/stars/grafana/grafana?style=social&color=white" alt="Grafana Stars" />](https://github.com/grafana/grafana/stargazers) |
@@ -91,7 +91,7 @@ Contributions are warmly welcomed! Please follow these simple guidelines:
 
 1. 🍴 **Fork the repository**.
 2. 📝 **Add/update entries in `README.md`** following the existing markdown format.
-3. 🔗 **Ensure accurate links**, factual pricing/valuation details, and proper star badges.
+3. 🔗 **Ensure accurate links**, factual pricing/valuation details, and proper Stars_Badges.
 4. 🚀 **Submit a Pull Request (PR)** with a clear title and description of your additions.
 
 ---
